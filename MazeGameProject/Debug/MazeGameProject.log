@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\jackh\Projects\MazeGameProject\MazeGameProject\Map.h(29,20): error C2039: 'Icon': is not a member of 'Wall'
+C:\Users\jackh\Projects\MazeGameProject\MazeGameProject\Wall.h(4): message : see declaration of 'Wall'
+C:\Users\jackh\Projects\MazeGameProject\MazeGameProject\Map.h(30,20): error C2039: 'Icon': is not a member of 'Tile'
+C:\Users\jackh\Projects\MazeGameProject\MazeGameProject\Tile.h(3): message : see declaration of 'Tile'
